@@ -1,0 +1,231 @@
+.icon-width{
+    width: 130px;
+}
+.font-size{
+    font-size: 14px;
+}
+.bg-img{
+    background-image: url(/imgs/bg-image.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 120vh;
+    width: 100%;
+    overflow: hidden;
+}
+.overlay{
+    background-color: rgba(0, 0, 255, .3);
+    z-index: 1;
+    position: absolute;
+    top: 10;
+    left: 0;
+    height: 120vh;
+    width: 100%;
+}
+.img-width{
+    width: 170px;
+}
+.blue-color{
+    color: #00CAFF;
+}
+.input{
+    width: 35%;
+    padding: 18px 25px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+}
+.searchIcon{
+    top: 16px;
+    left: 865px;
+    color: #dadada;
+    font-size: 27px;
+}
+.searchIcon:hover{
+    color: #919191;
+}
+.img1{
+    width: 250px;
+    height: 55px;
+    margin: 0px 17px;
+}
+.img2{
+    width: 210px;
+    height: 35px;
+    margin: 0px 10px;
+}
+.img3{
+    width: 260px;
+    height: 140px;
+    margin: 0px 5px;
+    margin-top: -18px;
+}
+.images{
+    margin-top: -30px;
+}
+
+.cards1{
+    box-shadow: 1px 1px 8px 5px rgba(0, 0, 0, 0.1);
+    padding: 40px 45px;
+}
+.cards2{
+    box-shadow: 1px 1px 8px 5px rgba(0, 0, 0, 0.1);
+    padding: 40px 50px 40px 45px;
+    width: 160px;
+}
+.cards2 span{
+    width: 100px;
+    text-align: center;
+    margin-left: -17px;
+}
+.cards2 img{
+    width: 70px;
+}
+.cards3{
+    padding: 40px 45px;
+    box-shadow: 1px 1px 8px 5px rgba(0, 0, 0, 0.1);
+}
+.cards4{
+    padding: 23px 30px;
+    box-shadow: 1px 1px 8px 5px rgba(0, 0, 0, 0.1);
+}
+.cards4 span{
+    width: 105px;
+
+}
+.cards5{
+    padding: 32px 35px;
+    box-shadow: 1px 1px 8px 5px rgba(0, 0, 0, 0.1);
+}
+.cards5 img{
+    width: 80px;
+    text-align: center;
+    margin-left: 8px;
+}
+.cards6{
+    padding: 35px 45px;
+    box-shadow: 1px 1px 8px 5px rgba(0, 0, 0, 0.1);
+}
+.cards6 span{
+    margin-left: 5px;
+}
+.cards7{
+    padding: 30px 25px;
+    box-shadow: 1px 1px 8px 5px rgba(0, 0, 0, 0.1);
+}
+.cards7 img{
+    width: 90px;
+    margin-left: 14px;
+}
+.cards1:hover{
+    transform: scale(1.1);
+}
+.cards2:hover{
+    transform: scale(1.1);
+}
+.cards3:hover{
+    transform: scale(1.1);
+}
+.cards4:hover{
+    transform: scale(1.1);
+}
+.cards5:hover{
+    transform: scale(1.1);
+}
+.cards6:hover{
+    transform: scale(1.1);
+}
+.cards7:hover{
+    transform: scale(1.1);
+}
+.ios{
+    width: 100px;
+    margin-left: 20px;
+}
+
+.blue{
+    background-color: #385ACD;
+}
+.img-intern{
+    background-image: url("imgs/code.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 105vh;
+    position: relative;
+    overflow: hidden;
+}
+.overlay-intern{
+    background-color: rgba(24, 0, 129, 0.8);
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 105vh;
+    width: 100%;
+}
+.footer-bg{
+    background-color: #042D89;
+}
+.f-text h6{
+    font-size: 15px;
+    margin-top: 10px;
+}
+.f-text span{
+    font-size: 13px;
+}
+.code-img{
+    background-image: url("/imgs/code.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 130px ;
+    width: 350px;
+    position: relative;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.img-color{
+    background-color: rgba(25, 29, 255, 0.5);
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 130px ;
+    width: 350px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.color-blue{
+    color: #042D89;
+    background-color: #F0F7F4;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+.card-intern{
+    width: 350px;
+    border-radius: 25px;
+    box-shadow: 1px 1px 8px 5px rgba(0, 0, 0, 0.1);
+    padding-bottom: 10px;
+}
+.card-intern:hover{
+    box-shadow: 1px 1px 10px 5px rgba(0, 0, 0, 0.1);
+    transform: scale(1.1);
+
+}
+.Hybrid{
+    background-color: #F0F7F4;
+    padding: 2px 5px;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+.readBtn{
+    border: none;
+    padding: 8px 25px;
+    color: #fff;
+    background-color: #326EC9;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.readBtn:hover{
+    background-color: #042D89;
+}
